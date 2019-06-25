@@ -18,7 +18,6 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
     tag_num = args.num
-    tag_size = args.size
 
     # Make folder for models
     make_dir("models")
