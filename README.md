@@ -1,4 +1,5 @@
 # gazebo aruco tag generator
+![Alt img](images/sample_tags.png)
 
 ## Dependencies
 
