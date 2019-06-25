@@ -15,10 +15,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Generate Aruco tags in pdf pages')
     parser.add_argument('--num', type=int, required=None, default=2,
                         help='Integer for the amount of tags to generate. Default [2]')
-    parser.add_argument('--size', type=int, required=None, default=14,
-                        help='Tag size in cm. Default [14]')
-    parser.add_argument('--name', required=None, default="tags.material",
-                        help='Gazebo material name')
 
     args = parser.parse_args()
     tag_num = args.num
