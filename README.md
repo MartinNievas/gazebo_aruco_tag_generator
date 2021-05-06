@@ -11,7 +11,7 @@
   - os
 
 ## How to use
-For generate the tags:
+How to generate the tags:
 ```bash
 $ python create_aruco.py --num 10
 ```
