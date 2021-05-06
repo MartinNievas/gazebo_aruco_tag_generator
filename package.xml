@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>aruco_tags</name>
+  <version>0.0.0</version>
+  <description>Gazebo aruco_tags</description>
+
+  <maintainer email="mnievas@frc.utn.edu.ar">Martin Nievas</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+
+  </export>
+</package>
